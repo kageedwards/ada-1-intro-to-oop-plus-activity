@@ -3,28 +3,35 @@
 Talk through each section with your team. Add notes on what you discussed and agreed upon in each section. At the bottom, type your names to sign off on your agreement.
 
 ## Accessibility Needs
-*What does each team member need access to in order to succeed and show up the best they can?*  
-    *I have adhd, so sometimes it takes me a bit longer to understand a concept. plus a visual learner (najma)
+*What does each team member need access to in order to succeed and show up the best they can?*
+    - I have adhd, so sometimes it takes me a bit longer to understand a concept. plus a visual learner (najma)
+    - videos and subtitles are helpful (sb)
+    - good communication (Kage)
 
 
 ## Collaboration vs. Individual Work Expectations
 *Clarify your collaboration expectations - does your group want to write code together all of the time? Or divide work to do independently, then come together to share accomplishments? What tools and technologies can help your collaboration?*
+    - Work together when we can and seperate certain tasks. Come together at the end to check for understanding. (sb)
 
 ## Learning Style
 *How does each team member learn best in project settings?*
+    - I learn by watching and doing (sb)
+    - I learn by doing and failing (kage)
 
 ## Preferred Feedback Style
 *How does each team member best receive feedback?*
+    - straight forward feedback (sb, ke)
 
 ## One Team Communication Skill to Improve
 *What is a teamwork-related skill you want to work on?*
+    - work on communicating when I'm stuck (sb, ke)
 
 ## Optional: Other agreements
 *Other co-working agreements that were not captured in the above sections.*
 
 ## Signatures
 _______________
+Shontai Blye
+Kage Edwards
 _______________
-_______________
-_______________
-Date: _________
+Date: 09/20/2026
