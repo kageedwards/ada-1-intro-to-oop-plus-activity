@@ -1,7 +1,7 @@
 # add your Student class here!
 class Student:
 
-    def __init__(self, full_name, grade, classes_list=[]):
+    def __init__(self, full_name, grade, classes_list):
         self.name = full_name
         self.grade = grade
         self.classes = classes_list
@@ -9,6 +9,8 @@ class Student:
     def add_class(self, course):
         if course not in self.classes:
             self.classes.append(course)
+
+        return self.classes
 
     def get_num_classes(self):
         return len(self.classes)
