@@ -19,4 +19,5 @@ class Student:
     def summary(self):
         num_classes = self.get_num_classes()
 
-        return f"{self.name} is a {self.grade} enrolled in {num_classes} classes"
+        grade_article = "an" if self.grade[0] in ["a", "e", "i", "o", "u"] else "a"
+        return f"{self.name} is {grade_article} {self.grade} enrolled in {num_classes} classes"
