@@ -1,4 +1,5 @@
 from activity.student import Student
+from activity.high_school_student import HighSchoolStudent
 from activity.comparison import get_student_with_more_classes
 
 # first instance
@@ -21,3 +22,9 @@ claire.summary()  # => "Claire is a freshman enrolled in 6 classes"
 
 # function
 get_student_with_more_classes(claire, samara)  # => samara
+
+hs_student = HighSchoolStudent( "Jessica", "senior", ["Calculus"])
+hs_student.add_club("Chess")
+hs_student.has_parking_privileges = True
+
+print(hs_student.summary())
